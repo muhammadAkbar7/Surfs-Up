@@ -80,7 +80,7 @@ Allows users to see best surf locations, any restos near that location, local su
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://github.com/muhammadAkbar7/Surfs-Up/blob/main/wireframe.heic" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
