@@ -15,7 +15,6 @@ Allows users to see best surf locations, any restos near that location, local su
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 - **Category:** Sports
 - **Mobile:** Maps, location, real-time
 - **Story:** Aims to be the go to source for surfers of any level.
