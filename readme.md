@@ -98,3 +98,7 @@ Allows users to see best surf locations, any restos near that location, local su
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+### Credits
+
+- App icon: <a target="_blank" href="https://icons8.com/icon/58191/surfboard">Surfboard</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
