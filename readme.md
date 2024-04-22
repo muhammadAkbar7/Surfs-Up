@@ -6,6 +6,7 @@
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
 4. [Schema](#Schema)
+5. [Sprints](#Sprints)
 
 ## Overview
 
@@ -98,3 +99,22 @@ Allows users to see best surf locations, any restos near that location, local su
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+## Sprints
+
+Week 1: Finished building the app icon and launch screen. Challeges was getting the correct size for the launch screen, solved this by experimenting with different resolutions.
+
+<div>
+    <a href="https://www.loom.com/share/65000ecc63864d1096d6a2c59acf4883">
+      <p>Xcode - Surf — LaunchScreen.storyboard - 15 April 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/65000ecc63864d1096d6a2c59acf4883">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/65000ecc63864d1096d6a2c59acf4883-with-play.gif">
+    </a>
+  </div>
+
+
+
+### Credits
+
+- App icon: <a target="_blank" href="https://icons8.com/icon/58191/surfboard">Surfboard</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
