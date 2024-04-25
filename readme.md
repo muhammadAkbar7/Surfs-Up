@@ -114,6 +114,18 @@ Week 1: Finished building the app icon and launch screen. Challeges was getting 
   </div>
 
 
+Week 2: Finished building the welcome screen. Challenges was making the image in a good resolution and also making the buttons white (for some reason they show differently on my phone (iPhone 14 pro) might be because lower target deployment)).
+
+<div>
+    <a href="https://www.loom.com/share/b6c0280623824d8ba340df4c62a94e2b">
+      <p>Simulator - iPhone 15 Pro - 24 April 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/b6c0280623824d8ba340df4c62a94e2b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b6c0280623824d8ba340df4c62a94e2b-with-play.gif">
+    </a>
+  </div>
+
+
 
 ### Credits
 
