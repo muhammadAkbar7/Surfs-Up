@@ -51,7 +51,7 @@ Allows users to see best surf locations, any restos near that location, local su
 
 ### 2. Screen Archetypes
 
-- [ ] Welcome Screen
+- [x] Welcome Screen
 * User can click start
 
 - [ ] Level and location Pick
