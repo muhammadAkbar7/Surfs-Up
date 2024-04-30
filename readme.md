@@ -125,6 +125,17 @@ Week 2: Finished building the welcome screen. Challenges was making the image in
     </a>
   </div>
 
+  Week 3: Made a rough build of the location choosing screen.
+
+  <div>
+    <a href="https://www.loom.com/share/c2d73ccc42b24f56943ee61cb0a0e9dc">
+      <p>Simulator - iPhone 15 Pro - 29 April 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/c2d73ccc42b24f56943ee61cb0a0e9dc">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c2d73ccc42b24f56943ee61cb0a0e9dc-with-play.gif">
+    </a>
+  </div>
+
 
 
 ### Credits
